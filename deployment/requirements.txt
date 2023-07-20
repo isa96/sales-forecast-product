@@ -1,0 +1,9 @@
+streamlit
+pandas
+seaborn
+matplotlib
+scikit-learn == 1.0.2
+numpy
+plotly
+openpyxl
+statsmodels == 0.13.2
